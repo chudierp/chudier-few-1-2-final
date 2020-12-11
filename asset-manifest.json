@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/chudier-few-1-2-final/static/css/main.d5235f7b.chunk.css",
+    "main.js": "/chudier-few-1-2-final/static/js/main.db0e7252.chunk.js",
+    "main.js.map": "/chudier-few-1-2-final/static/js/main.db0e7252.chunk.js.map",
+    "runtime-main.js": "/chudier-few-1-2-final/static/js/runtime-main.1f1d6b59.js",
+    "runtime-main.js.map": "/chudier-few-1-2-final/static/js/runtime-main.1f1d6b59.js.map",
+    "static/js/2.2d4b2044.chunk.js": "/chudier-few-1-2-final/static/js/2.2d4b2044.chunk.js",
+    "static/js/2.2d4b2044.chunk.js.map": "/chudier-few-1-2-final/static/js/2.2d4b2044.chunk.js.map",
+    "static/js/3.e1e0709a.chunk.js": "/chudier-few-1-2-final/static/js/3.e1e0709a.chunk.js",
+    "static/js/3.e1e0709a.chunk.js.map": "/chudier-few-1-2-final/static/js/3.e1e0709a.chunk.js.map",
+    "index.html": "/chudier-few-1-2-final/index.html",
+    "static/css/main.d5235f7b.chunk.css.map": "/chudier-few-1-2-final/static/css/main.d5235f7b.chunk.css.map",
+    "static/js/2.2d4b2044.chunk.js.LICENSE.txt": "/chudier-few-1-2-final/static/js/2.2d4b2044.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f1d6b59.js",
+    "static/js/2.2d4b2044.chunk.js",
+    "static/css/main.d5235f7b.chunk.css",
+    "static/js/main.db0e7252.chunk.js"
+  ]
+}
